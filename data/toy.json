@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "t101",
+    "name": "Talking Doll",
+    "price": 123,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "_id": "t102",
+    "name": "Pickachu Doll",
+    "price": 100,
+    "labels": [
+      "Doll",
+      "Pokemon",
+      "Kids"
+    ],
+    "createdAt": 1731031801011,
+    "inStock": false
+  },
+  {
+    "_id": "t104",
+    "name": "Soccer Ball!",
+    "price": 99,
+    "inStock": true,
+    "createdAt": 1731031801011,
+    "labels": [
+      "Soccer",
+      "Ball",
+      "Sports"
+    ]
+  }
+]
